@@ -1,0 +1,16 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[I 2024-07-08 15:51:32.135 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-07-08 15:51:32.154 ServerApp] Package jupyter_lsp took 0.0186s to import
+[W 2024-07-08 15:51:32.154 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-07-08 15:51:32.163 ServerApp] Package jupyter_server_terminals took 0.0076s to import
+[I 2024-07-08 15:51:32.165 ServerApp] Package nbclassic took 0.0013s to import
+[W 2024-07-08 15:51:32.167 ServerApp] A `_jupyter_server_extension_points` function was not found in nbclassic. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-07-08 15:51:32.168 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-07-08 15:51:32.168 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-07-08 15:51:32.168 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-07-08 15:51:32.174 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-07-08 15:51:32.184 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-07-08 15:51:32.192 ServerApp] nbclassic | extension was successfully linked.
+[I 2024-07-08 15:51:32.432 ServerApp] notebook_shim | extension was successfully linked.
